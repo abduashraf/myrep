@@ -9,3 +9,4 @@ if j>0:
     print("Non-prime")
 else:
     print("prime")
+print("The prime is found, right?")
